@@ -1,0 +1,4 @@
+pymilvus==3.0.2
+milvus-lite==3.2.2
+sentence-transformers==6.3.0
+numpy==2.5.5
