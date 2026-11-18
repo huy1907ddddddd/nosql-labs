@@ -1,0 +1,17 @@
+.venv/
+.cache/
+.tmp/
+__pycache__/
+*.pyc
+*.db/
+*.db
+*.log
+*.pdf
+*.jpg
+*.png
+*.html
+*.json
+KET-QUA*.txt
+PROFILE.txt
+step*.txt
+exercises-output.txt
